@@ -1,1 +1,1 @@
-# Grid
+# p6 grid
